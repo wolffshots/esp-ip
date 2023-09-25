@@ -2,6 +2,13 @@
 
 This project is a hardware solution that leverages the power of the ESP32 to bridge local communication interfaces, such as serial and (in the future) I2C, to a WiFi network. It allows devices with traditional communication interfaces to be accessed and controlled over WiFi.
 
+![Schematic diagram](docs/schematic.png)
+
+![PCB diagram](docs/pcb.png)
+Note: unrouted
+![Board diagram](docs/board.png)
+Note: unrouted
+
 ## Features
 
 - **Interface Bridging**: Convert and expose devices using:
