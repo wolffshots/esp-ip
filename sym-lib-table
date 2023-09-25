@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "L78M05ABDT-TR")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/L78M05ABDT-TR.kicad_sym")(options "")(descr ""))
+)
