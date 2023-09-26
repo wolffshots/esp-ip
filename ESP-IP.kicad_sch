@@ -4033,7 +4033,7 @@
     (property "Value" "Serial and power" (at 121.92 127 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" (at 136.525 132.715 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" (at 136.525 132.715 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 136.525 132.715 0)
