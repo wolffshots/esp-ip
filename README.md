@@ -5,9 +5,9 @@ This project is a hardware solution that leverages the power of the ESP32 to bri
 ![Schematic diagram](docs/schematic.png)
 
 ![PCB diagram](docs/pcb.png)
-Note: unrouted
+
 ![Board diagram](docs/board.png)
-Note: unrouted
+
 
 ## Features
 
